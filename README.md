@@ -1,4 +1,8 @@
-![ksuzu46's GitHub stats](https://github-readme-stats.vercel.app/api?username=ksuzu46&show_icons=true&theme=dracula&count_private=true)
+![ksuzu46's GitHub stats](https://github-readme-stats-amber-three-22.vercel.app/api?username=ksuzu46&show_icons=true&theme=dracula&count_private=true)
+
+
+![Top Langs](https://github-readme-stats-amber-three-22.vercel.app/api/top-langs/?username=ksuzu46&count_private=true&theme=dracula)
+
 <!--
 **ksuzu46/ksuzu46** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
